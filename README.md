@@ -1,5 +1,6 @@
 Here are my presentations in some recent security conferences:
 
+- *The Underground Economy of Apple ID*. BSidesSF, San Francisco, Feb 2017
 - *Fruit vs Zombies: Defeat Non-jailbroken iOS Malware*. ShakaCon, Honolulu, Jul 2016
 - *Who’s Breaking into Your Garden? iOS and OS X Malware You May or May Not Know*. BsidesSF, San Francisco, Feb 2016
 - *iOS Malware: New Techniques, Trends and Ecosystems*. Palo Alto Networks Ingite, Las Vegas, Mar 2015
